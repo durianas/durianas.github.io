@@ -24,6 +24,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  durianas
 
+organisasjonsnummer      : "919 415 576"
+foretaksregisteret       : "NO 919 415 576"
+landkode                 : "NO"
+merverdiavgiftsmanntallet: "" # "MVA" (default)
+
 # Build settings
 markdown: kramdown
 theme: minima
